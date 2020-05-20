@@ -25,7 +25,7 @@ Page {
             x: 340
             y: 30
             width: 200
-            text: qsTr("Target Kp")
+            text: qsTr("Kp")
         }
 
         Button {
@@ -33,7 +33,7 @@ Page {
             x: 575
             y: 30
             width: 200
-            text: qsTr("Target Power")
+            text: qsTr("Power")
         }
 
         Label {
